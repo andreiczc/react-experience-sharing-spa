@@ -1,6 +1,6 @@
 # **Web Application for Sharing Public Transport Experience**
 
-This solution was implemented for a Web Technologies in project in a team of four.
+This solution was implemented for a Web Technologies project in a team of four.
 
 The purpose of the application is to allow logged in and anonymous users to share public transport experience.
 
